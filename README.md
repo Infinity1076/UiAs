@@ -1,4 +1,4 @@
-# UIAS
+# UiAs: User-Independent 3D Facial Anti-Spoofing via Multi-modal Wireless Signals
 
 Official anonymous implementation of UIAS, a user-independent 3D facial
 anti-spoofing system based on synchronized mmWave and acoustic signals.
