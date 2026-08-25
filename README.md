@@ -15,9 +15,10 @@ The privacy-redacted demonstration is stored at `demo/demo.mp4`. Participant
 and laboratory footage has been replaced with result cards, and the audio and
 editor metadata have been removed.
 
-[▶ Watch the demo video](demo/demo.mp4)
 
-
+<video controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+</video>
 
 
 
