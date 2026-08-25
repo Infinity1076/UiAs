@@ -16,7 +16,11 @@ and laboratory footage has been replaced with result cards, and the audio and
 editor metadata have been removed.
 
 
-https://github.com/Infinity1076/UiAs/blob/main/demo/demo.mp4
+
+
+https://github.com/user-attachments/assets/7cfc876f-1470-4729-ac7b-fb1e1ea87d78
+
+
 
 
 
