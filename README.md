@@ -16,9 +16,7 @@ and laboratory footage has been replaced with result cards, and the audio and
 editor metadata have been removed.
 
 
-<video controls>
-  <source src="demo/demo.mp4" type="video/mp4">
-</video>
+https://github.com/Infinity1076/UiAs/blob/main/demo/demo.mp4
 
 
 
